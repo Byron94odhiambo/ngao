@@ -1,6 +1,6 @@
 # NGAO Security Platform
 
-NGAO (Next Generation Asset Observer) is a comprehensive cybersecurity platform designed for the Kenyan market, focusing on vulnerability assessment, compliance monitoring, and security scanning.
+NGAO (Next Generation Asset Observer) is a comprehensive cybersecurity platform designed for your asset security management, focusing on vulnerability assessment, compliance monitoring, and security scanning.
 
 ## Features
 
