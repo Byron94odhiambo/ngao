@@ -176,9 +176,6 @@ docker-compose up -d
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-## Contact
-
-Project Link: [https://github.com/yourusername/ngao](https://github.com/yourusername/ngao)
 
 ## Acknowledgments
 - FastAPI
